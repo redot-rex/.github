@@ -16,7 +16,7 @@ Breaking compatibility with Godot enables us to innovate freely, though it also 
 ---
 
 <p align="center">
-	<img src="../redot-icon-outlined.png" width="400" alt="Redot Experimental Icon!">
+	<img src="../rex_engine_logo_v_1_0.png" width="400" alt="Redot Experimental Icon!">
 </p>
 
 # Redot Experimental Focus
