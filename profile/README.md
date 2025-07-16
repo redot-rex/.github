@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="../redot-logo-outlined.png" width="900" alt="Redot Experimental Logo!">
+	<img src="../rex_engine_logo_v_1_0.png" width="900" alt="Redot Experimental Logo!">
 </p>
 
 ---
