@@ -4,11 +4,11 @@
 
 ---
 
-# Welcome to Redot Experimental
-Welcome to the Redot Experimental GitHub Organization! This organization is the experimental counterpart of the main [Redot Engine](https://github.com/Redot-Engine/redot-engine) project, dedicated to pushing the boundaries of what’s possible within open source game engine technology. While the main project strives to maintain compatibility with Godot, Redot Experimental explores new ideas, features, and technologies free from compatibility constraints.
+# Welcome to ReX Engine
+Welcome to the Rex Engine GitHub Organization! This organization is the eventual flagship product of the Redot organization [Redot Engine](https://github.com/Redot-Engine/redot-engine) project, dedicated to pushing the boundaries of what’s possible within open source game engine technology. While the main project strives to maintain compatibility with Godot, Rex Engine explores new ideas, features, and technologies free from compatibility constraints.
 
 # Why Experimental?
-Redot Experimental exists to explore innovations that may not yet be possible within the main [Redot Engine](https://github.com/Redot-Engine/redot-engine) project. Here, we can try out new tools, introduce cutting-edge changes, and test features that may one day enhance Redot Engine or even serve as standalone solutions. Our focus on experimentation enables rapid iteration, supporting a community of developers who are passionate about the future of open source game engine technology.
+Redot Experimental exists to explore innovations that may not yet be possible within the main [Redot Engine](https://github.com/Redot-Engine/redot-engine). Here, we can try out new tools, introduce cutting-edge changes, and test features that may one day enhance Redot Engine or even serve as standalone solutions. Our focus on experimentation enables rapid iteration, supporting a community of developers who are passionate about the future of open source game engine technology.
 
 ## Breaking Compatibility
 Breaking compatibility with Godot enables us to innovate freely, though it also means that porting projects from Godot to Redot Experimental may require more adaptation. While the main [Redot Engine](https://github.com/Redot-Engine/redot-engine) project continues to support compatibility, Redot Experimental is a place to explore beyond those boundaries. This project isn’t meant to replace Redot Engine - it’s a testing ground where new features and systems can be developed in preparation for a future where compatibility is no longer a goal.
